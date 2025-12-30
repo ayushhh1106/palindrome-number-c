@@ -23,9 +23,3 @@ int main() {
 
     return 0;
 }
-
-/*
-Example:
-Input: 121
-Output: Palindrome Number
-*/

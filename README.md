@@ -21,14 +21,3 @@ A palindrome number reads the same forward and backward.
 4. Compare original and reversed numbers
 5. If equal → Palindrome
 6. Else → Not Palindrome
-
----
-
-## 💻 Source Code
-File: palindrome.c
-
----
-
-## 🧪 Sample Input & Output
-
-Input:

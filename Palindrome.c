@@ -2,6 +2,7 @@
 
 int main() {
     //Ayush Kumar 10343
+    // sec e
     int num, original, reversed = 0, digit;
 
     printf("Enter a number: ");

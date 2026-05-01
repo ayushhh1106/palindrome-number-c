@@ -5,7 +5,7 @@ int main() {
     // sec e
     int num, original, reversed = 0, digit;
 
-    printf("Enter a number: ");
+    printf("Enter a digit: ");
     scanf("%d", &num);
 
     original = num;

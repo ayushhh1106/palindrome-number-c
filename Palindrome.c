@@ -1,7 +1,7 @@
 #include <stdio.h>
 
 int main() {
-    //Ayush Kumar 10343
+    //Ayush Kumar10343
     // sec e
     int num, original, reversed = 0, digit;
 

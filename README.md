@@ -3,7 +3,7 @@
 ## 📌 Project Description
 This project checks whether a given number is a palindrome or not using C programming.
 
-A palindrome number reads the same forward and backward.
+A palindrome number checker reads the same forward and backward.
 
 ---
 

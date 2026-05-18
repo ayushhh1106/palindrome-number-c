@@ -19,7 +19,7 @@ int main() {
     if (original == reversed) {
         printf("Palindrome Number\n");
     } else {
-        printf("Not a Palindrome Number\n");
+        printf("Not a Palindrome \n");
     }
 
     return 0;

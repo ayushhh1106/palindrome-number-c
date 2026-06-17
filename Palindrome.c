@@ -15,9 +15,9 @@ int main() {
         reversed = reversed * 10 + digit;
         num = num / 10;
     }
-
+ 
     if (original == reversed) {
-        printf("Palindrome Number \n");
+        printf("Palindrome Number\n");
     } else {
         printf("Not a Palindrome \n"); 
     }

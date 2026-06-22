@@ -12,7 +12,7 @@ int main() {
 
     while (num != 0) {
         digit = num % 10;
-        reversed = reversed * 10 + digit;
+        reversed = reversed * 10 + digit ;
         num = num / 10;
     }
  

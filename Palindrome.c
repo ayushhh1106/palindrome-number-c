@@ -3,7 +3,7 @@
 int main() {
     //Ayush Kumar10343
     // sec e
-    int num, original, reversed = 0, digit;
+    int num, original, reversed = 0, digit ;
 
     printf("Enter a number:");
     scanf("%d", &num);

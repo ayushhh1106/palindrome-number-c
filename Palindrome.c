@@ -8,7 +8,7 @@ int main() {
     printf("Enter a number:");
     scanf("%d", &num);
 
-    original = num ;
+    original = num;
 
     while (num != 0) {
         digit = num % 10;
